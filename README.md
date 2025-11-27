@@ -40,6 +40,7 @@ ii)  SQUARE WAVE INPUT
 <img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/ab1e5f5e-e1a5-47bf-affe-cc241b646aa5" />
 
 
+
 ## TABULATION:
 <img width="1600" height="834" alt="image" src="https://github.com/user-attachments/assets/facabb32-f4cb-4620-9d73-1917583d1e5e" />
 
